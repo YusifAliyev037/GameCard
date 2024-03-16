@@ -1,0 +1,23 @@
+.cardContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .cardItem {
+    margin: 10px;
+  }
+  
+  .cards {
+    width: 100px;
+   
+    /* transform: rotate(40deg); */
+  }
+  
+
+  button{
+    margin-bottom: 98px;
+    
+  }
+  
